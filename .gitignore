@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos locales privados (sesiones, logs, CV, respuestas)
+compu_session.json
+linkedin_session/
+respuestas.json
+preguntas_pendientes.txt
+bolsa_mendoza.txt
+*_log.csv
+empresas.csv
+postular_manual.csv
+descartados.txt
+CV_*.pdf
+debug_*
+foto.png
+avisos/
